@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Neil Kaye's dataviz example page
 
 You can use the [editor on GitHub](https://github.com/NeilKaye/NeilKaye.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
