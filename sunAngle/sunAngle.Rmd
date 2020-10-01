@@ -15,10 +15,7 @@ pkgs = c(
   "suncalc",        # to calculate sun angles
   "maptools",       # world map data
   "ggplot2",        # visualisation
-  "lubridate",       # dates package
-  "sp",
-  "sf",
-  "assertthat"
+  "lubridate"       # dates package
 )
 to_install = !pkgs %in% installed.packages()
 if(any(to_install)) {
